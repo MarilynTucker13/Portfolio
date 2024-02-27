@@ -44,6 +44,7 @@ star-element::before{
         opacity: 0;
     }
 }
+/* 星3つ */
 star-element:nth-child(1){
     top: 0;
     right: 0;
